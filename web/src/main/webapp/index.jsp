@@ -13,7 +13,7 @@
 <body>
   <h1>This is very simple example for git</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    Shubham gandu hai! kisi ko gand chaiye to usse sampark kare.
   </p>
 </body>
 </html>
