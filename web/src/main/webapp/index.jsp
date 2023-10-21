@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Kumar Shubham Gandu hai</title>
+    <title>It's Weekend, Lets Party</title>
 </head>
 <body>
   <h1>This is very simple example for git</h1>
