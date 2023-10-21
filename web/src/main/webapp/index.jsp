@@ -13,7 +13,7 @@
 <body>
   <h1>This is very simple example for git</h1>
   <p>
-    Shubham gandu hai! kisi ko gand chaiye to usse sampark kare.
+    Welcome to  AWS
   </p>
 </body>
 </html>
